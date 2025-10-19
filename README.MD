@@ -68,7 +68,7 @@ ELEVENLABS_VOICE_ID=...
 Run the generator:
 
 ```bash
-python main.py
+python ppt-gen.py
 ```
 
 **Customize the topic** by editing the last line in `main.py`:
