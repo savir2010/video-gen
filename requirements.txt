@@ -1,0 +1,9 @@
+python-pptx
+openai
+python-dotenv
+requests
+pydub
+Pillow
+opencv-python
+numpy
+moviepy
